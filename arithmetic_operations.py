@@ -1,5 +1,5 @@
 # Variables and Data Types
-apples = 1  # An integer variable
+apples = 4  # An integer variable
 juice_glasses = 2.5  # A float variable
 
 # Arithmetic Operations
